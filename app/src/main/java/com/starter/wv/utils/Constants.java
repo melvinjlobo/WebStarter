@@ -10,7 +10,7 @@ public final class Constants {
     /**
      * The URL to access the WV Application
      */
-    public final static String WV_URL = "http://www.google.com/";
+    public final static String WV_URL = "https://www.google.com/";
 
     /**
      * External directory name to store downloads
